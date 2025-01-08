@@ -20,12 +20,13 @@ This project uses the YOLOv8 model to detect various Indian currency denominatio
 - A computer with a functional webcam.
 - GPU acceleration (optional, but recommended for better performance).
 
-## Future Work
 
-- Implement real-time voice-guided feedback for detected objects.
-- Expand the model to recognize currencies from other regions.
 ## Class Labels
 The program recognizes the following currency denominations:
 
 - **Coins**: 1 rupee coin, 2 rupee coin, 5 rupee coin, 10 rupee coin, 20 rupee coin
 - **Notes**: 1 rupee, 2 rupees, 5 rupees, 10 rupees, 20 rupees, 50 rupees, 100 rupees, 200 rupees, 500 rupees, 2000 rupees
+## Future Work
+
+- Implement real-time voice-guided feedback for detected objects.
+- Expand the model to recognize currencies from other regions.
